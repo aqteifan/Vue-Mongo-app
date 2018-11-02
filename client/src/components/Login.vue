@@ -1,7 +1,11 @@
 <template>
-    <div>
-        <h2>Login</h2>
-    </div>
+  <v-container>
+    <v-layout>
+      <v-flex row wrap>
+        <h2>Login to Globomantics</h2>
+      </v-flex>
+    </v-layout>
+  </v-container>
 </template>
 
 <script>
